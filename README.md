@@ -27,7 +27,7 @@ A simple Python GUI application to download audio from YouTube videos, convert i
 
 ```bash
 git clone https://github.com/josh-keilder/song-downloader.git
-cd your-repo-name
+cd song-downloader
 ```
 2. **Create and activate a Virtual Environment**
 ```bash
