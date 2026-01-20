@@ -117,7 +117,7 @@ class YTConverter:
                     mode=dropbox.files.WriteMode.overwrite
                 )
 
-            self.converted_output.config(text="Uploaded to Dropbox Successfully!")
+            self.converted_output.config(text="Conversion to MP3 success and uploaded to Dropbox!")
 
         except Exception as e:
             print(f"Error occurred: {e}")
